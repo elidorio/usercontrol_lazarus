@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/package/connectors/UCAboluteBase
+END
+pckUCAbsoluteConn.dpk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/package/connectors/UCAboluteBase/pckUCAbsoluteConn.dpk
+END
+UCAbsoluteConnReg.pas
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/package/connectors/UCAboluteBase/UCAbsoluteConnReg.pas
+END
+UCAbsoluteConn.pas
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/package/connectors/UCAboluteBase/UCAbsoluteConn.pas
+END

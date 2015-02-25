@@ -1,0 +1,79 @@
+10
+
+dir
+2
+https://ucp.googlecode.com/svn/trunk/package/connectors
+https://ucp.googlecode.com/svn
+
+
+
+2011-01-08T16:15:10.302094Z
+2
+fco.ernesto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5c439f90-bba7-113b-5c9e-c6d7647064b0
+
+UCIBOConn
+dir
+
+UCDBXConn
+dir
+
+UCUIBConn
+dir
+
+UCMDOConn
+dir
+
+UCZeosConn
+dir
+
+UCIBXConn
+dir
+
+UCAstaConn
+dir
+
+UCBDEConn
+dir
+
+UCMyDACConn
+dir
+
+UCMidasConn
+dir
+
+UCDBISAMConn
+dir
+
+UCFIBConn
+dir
+
+UCUniDACConn
+dir
+
+UCADOConn
+dir
+
+UCODACConn
+dir
+
+UCNexusDBConn
+dir
+
+UCAboluteBase
+dir
+

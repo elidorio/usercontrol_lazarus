@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Package Version="4">
+    <PathDelim Value="\"/>
+    <Name Value="pl_indycomp"/>
+    <AddToProjectUsesSection Value="True"/>
+    <Author Value="Chad Z. Hower (Kudzu) and the Indy Pit Crew - http://www.indyproject.org/"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <PathDelim Value="\"/>
+      <SearchPaths>
+        <IncludeFiles Value="source;source\base"/>
+        <OtherUnitFiles Value="source;source\base"/>
+        <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)\$(LCLWidgetType)"/>
+      </SearchPaths>
+      <Parsing>
+        <SyntaxOptions>
+          <CStyleOperator Value="False"/>
+          <UseAnsiStrings Value="False"/>
+        </SyntaxOptions>
+      </Parsing>
+      <Other>
+        <Verbosity>
+          <ShowWarn Value="False"/>
+          <ShowNotes Value="False"/>
+          <ShowHints Value="False"/>
+        </Verbosity>
+        <CompilerMessages>
+          <UseMsgFile Value="True"/>
+        </CompilerMessages>
+        <CompilerPath Value="$(CompPath)"/>
+      </Other>
+    </CompilerOptions>
+    <Description Value="INDY Componets
+Modification for CodeTyphon Studio"/>
+    <Version Major="10" Minor="6" Build="2"/>
+    <Files Count="16">
+      <Item1>
+        <Filename Value="source\All_Indy_Reg.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="All_Indy_Reg"/>
+      </Item1>
+      <Item2>
+        <Filename Value="source\All_Indy_Reg.lrs"/>
+        <Type Value="LRS"/>
+      </Item2>
+      <Item3>
+        <Filename Value="source\IdAbout.pas"/>
+        <UnitName Value="IdAbout"/>
+      </Item3>
+      <Item4>
+        <Filename Value="source\IdAboutVCL.pas"/>
+        <UnitName Value="IdAboutVCL"/>
+      </Item4>
+      <Item5>
+        <Filename Value="source\IdAboutVCL.lrs"/>
+        <Type Value="LRS"/>
+      </Item5>
+      <Item6>
+        <Filename Value="source\IdAntiFreeze.pas"/>
+        <UnitName Value="IdAntiFreeze"/>
+      </Item6>
+      <Item7>
+        <Filename Value="source\IdCompilerDefines.inc"/>
+        <Type Value="Include"/>
+      </Item7>
+      <Item8>
+        <Filename Value="source\IdDsnBaseCmpEdt.pas"/>
+        <UnitName Value="IdDsnBaseCmpEdt"/>
+      </Item8>
+      <Item9>
+        <Filename Value="source\IdDsnCoreResourceStrings.pas"/>
+        <UnitName Value="IdDsnCoreResourceStrings"/>
+      </Item9>
+      <Item10>
+        <Filename Value="source\IdDsnPropEdBinding.pas"/>
+        <UnitName Value="IdDsnPropEdBinding"/>
+      </Item10>
+      <Item11>
+        <Filename Value="source\IdDsnPropEdBindingVCL.pas"/>
+        <UnitName Value="IdDsnPropEdBindingVCL"/>
+      </Item11>
+      <Item12>
+        <Filename Value="source\IdDsnResourceStrings.pas"/>
+        <UnitName Value="IdDsnResourceStrings"/>
+      </Item12>
+      <Item13>
+        <Filename Value="source\IdDsnSASLListEditor.pas"/>
+        <UnitName Value="IdDsnSASLListEditor"/>
+      </Item13>
+      <Item14>
+        <Filename Value="source\IdDsnSASLListEditorForm.pas"/>
+        <UnitName Value="IdDsnSASLListEditorForm"/>
+      </Item14>
+      <Item15>
+        <Filename Value="source\IdDsnSASLListEditorFormVCL.pas"/>
+        <UnitName Value="IdDsnSASLListEditorFormVCL"/>
+      </Item15>
+      <Item16>
+        <Filename Value="source\IdDsnSASLListEditorFormVCL.lrs"/>
+        <Type Value="LRS"/>
+      </Item16>
+    </Files>
+    <Type Value="RunAndDesignTime"/>
+    <RequiredPkgs Count="3">
+      <Item1>
+        <PackageName Value="LCL"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="IDEIntf"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="FCL"/>
+        <MinVersion Major="1" Valid="True"/>
+      </Item3>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IgnoreBinaries Value="False"/>
+    </PublishOptions>
+  </Package>
+</CONFIG>

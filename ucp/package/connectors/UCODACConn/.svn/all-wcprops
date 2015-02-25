@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/package/connectors/UCODACConn
+END
+pckODACConn.dpk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/package/connectors/UCODACConn/pckODACConn.dpk
+END
+UCODACConnReg.pas
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/package/connectors/UCODACConn/UCODACConnReg.pas
+END
+UCODACConn.pas
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/package/connectors/UCODACConn/UCODACConn.pas
+END
