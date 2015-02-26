@@ -1,0 +1,17 @@
+Como instalar Usercontrol no Lazarus - (Português)
+
+1 - Compilar/Instalar o pacote pl_indycomp.lpk da pasta pl_Indy
+2 - Compilar/Instalar o pacote pckUserControlRuntime.lpk da pasta ucp\package\lazarus
+3 - Compilar/Instalar o pacote pckUserControlDesign.lpk da pasta ucp\package\lazarus
+4 - Compilar/Instalar o pacote pckUCDataConnector.lpk da pasta ucp\package\lazarus
+5 - Compilar/Instalar o pacote pckZeosConn.lpk da \ucp\package\connectors\UCZeosConn
+
+
+
+How to install Usercontrol in Lazarus-(English)
+
+1- Compile / Install the pl_indycomp.lpk package from pl_Indy folder
+2- Compile / Install the pckUserControlRuntime.lpk package from ucp\package\lazarus folder
+3- Compile / Install the pckUserControlDesign.lpk package from ucp\package\lazarus folder
+4- Compile / Install the pckUCDataConnector.lpk package from ucp\package\lazarus folder
+5- Compile / Install the pckZeosConn.lpk package from \ucp\package\connectors\UCZeosConn
